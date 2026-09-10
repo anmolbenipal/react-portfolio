@@ -5,7 +5,7 @@ const subheadingsData = {
             content:(
                 <>
                 <p>
-                I am Anmol Kaur Benipal, a native of Ludhiana, Punjab. Currently, I am advancing through the penultimate year of my Bachelor of Engineering program, specializing in Information Technology.
+                I am Anmol Kaur Benipal, a native of Ludhiana, Punjab. Currently, I am working at Deloitte USI as an analyst.
                 </p>
                 </>
             ),
@@ -27,7 +27,7 @@ const subheadingsData = {
             content:(
                 <>
                 <p>
-                    I am currently pursuing my bachelor's degree in Information Technology from University Institute of Engineering and Technology, Panjab University, Chandigarh.
+                    I pursued my bachelor's degree in Information Technology from University Institute of Engineering and Technology, Panjab University, Chandigarh and had a CGPA of 9.44.
                 </p>
                 </>
             ),
@@ -35,21 +35,21 @@ const subheadingsData = {
     ],
     3:[
         {
-            title:"2022 Frontend Developer",
+            title:"2025 Software Intern",
             content:(
                 <>
                 <p>
-                During my enriching four-week internship at DIC in Chandigarh, I focused on website development, acquiring a substantial breadth of knowledge in the field. .
+           Analyzed and improved document-processing workflows by evaluating OCR accuracy, fine-tuning Tesseract parameters, and integrating OCRmyPDF.
                 </p>
                 </>
             ),
         },
         {
-            title:"2023 UX Designer",
+            title:"2026 Analyst",
             content:(
                 <>
                 <p>
-                As a skilled UX designer, I specialize in creating intuitive, user-centric designs that balance aesthetic appeal with functionality, ensuring seamless and satisfying user experiences.
+                At Deloitte, I performed security assessments and risk analysis on SAP enterprise systems, analyzing user access and business processes to identify vulnerabilities and exceptions.
                 </p>
                 </>
             ),
